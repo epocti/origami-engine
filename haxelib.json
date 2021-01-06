@@ -1,0 +1,16 @@
+{
+	"name": "origami-engine",
+	"url": "https://fluff.haus/kokoscript/origami-engine",
+	"license": "dunno",
+	"tags": ["game", "openfl"],
+	"description": "Lightweight, barebones game engine",
+	"version": "0.0.1",
+	"classPath": "src/",
+	"releasenote": "First public library release",
+	"contributors": ["Kokoro"],
+	"dependencies": {
+		"openfl": "",
+		"lime": "",
+		"actuate": ""
+	}
+}

@@ -1,0 +1,16 @@
+{
+    "display": {
+        "framerate": 60,
+        "windowWidth": 800,
+        "windowHeight": 600,
+        "scaleMode": "letterbox",
+        "scaleX": 1,
+        "scaleY": 1,
+        "enableResize": true,
+        "startInFullscreen": false
+    },
+
+    "information": {
+        "windowTitle": "Origami Application"
+    }
+}

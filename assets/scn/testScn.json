@@ -1,0 +1,9 @@
+{
+	"sceneInfo": {
+		"id": 0,
+		"name": "testScn",
+		"layerNames": ["layer1", "layer2", "layer3"],
+		"layerOpacity": [100, 100, 100],
+		"backgrounds": null
+	}
+}

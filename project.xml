@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Origami" package="origami" version="1.0.0" company="Epocti" />
+	<app main="origami.Engine" path="export" file="Origami" />
+	
+	<source path="src" />
+	<haxelib name="openfl" />
+	<haxelib name="actuate" />
+
+	<icon path="assets/icon.png" />
+	<assets path="assets" />
+	<window vsync="false" antialiasing="4" allow-high-dpi="false"/>
+</project>
